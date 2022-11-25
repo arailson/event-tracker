@@ -1,0 +1,32 @@
+{
+  "eventos": [
+    {
+      "descricao": "Estudar React",
+      "inicio": "2022-11-23T09:00",
+      "fim": "2022-11-23T13:00",
+      "completo": false,
+      "id": 101
+    },
+    {
+      "descricao": "Estudar Recoil",
+      "inicio": "2022-11-22T09:00",
+      "fim": "2022-11-22T11:00",
+      "completo": false,
+      "id": 102
+    },
+    {
+      "descricao": "Estudar Jest",
+      "inicio": "2022-11-24T10:00",
+      "fim": "2022-11-24T12:00",
+      "completo": false,
+      "id": 103
+    },
+    {
+      "descricao": "Estudar Tailwind",
+      "inicio": "2022-11-25T13:00",
+      "fim": "2022-11-25T15:00",
+      "completo": false,
+      "id": 104
+    }
+  ]
+}
